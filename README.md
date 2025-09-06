@@ -27,9 +27,15 @@ This project integrates **speech-to-text, telephony, and AI-driven tool-calling*
 ### Clone repository
 
 ```bash
-git clone https://github.com/vallabhpatil777/pharmacy-assistant-voice-agent.git
+git clone https://github.com/vallabhpatil777/Pharmacy-Assistant-Voice-Agent.git
 cd pharmacy-assistant-voice-agent
 ```
+
+### Setup API keys for Ngrok and Deepgram 
+
+Ngrok : https://ngrok.com
+Deepgram : https://deepgram.com
+Twilio : https://www.twilio.com/en-us?utm_source=google&utm_medium=cpc&utm_term=twilio&utm_campaign=G_S_EMEA_Brand_UK&cq_plac=&cq_net=g&cq_pos=&cq_med=&cq_plt=gp&gad_source=1&gad_campaignid=21663289437&gbraid=0AAAAADcHgwVdXIdwxdpjHM9je-0GukDBw&gclid=CjwKCAjwt-_FBhBzEiwA7QEqyFG9E00xQU9QyHubU34ih7n8UtH16caXDDmQXCeqf2-0__kplsPLlxoC10oQAvD_BwE
 
 ### Run ngrok server
 
